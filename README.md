@@ -1,1 +1,3 @@
-# React-Redux-App
+### `npm install`
+### `npm run api`
+### `npm start`

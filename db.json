@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "title": "ABC",
+      "isCompleted": true,
+      "id": 1
+    },
+    {
+      "title": "My-Task-1",
+      "isCompleted": true,
+      "id": 2
+    },
+    {
+      "title": "Task-List-2",
+      "isCompleted": false,
+      "id": 3
+    }
+  ]
+}
